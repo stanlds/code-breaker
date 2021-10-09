@@ -2,10 +2,10 @@
   "name": "codebreakerapi",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "jest --verbose --coverage",
-    "dev": "node index.js"
+    "dev": "node app.js"
   },
   "author": "",
   "license": "ISC",
